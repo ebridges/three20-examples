@@ -1,0 +1,214 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* CheckboxInTTTableViewAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {843, 377}}";
+			sepNavSelRange = "{207, 0}";
+			sepNavVisRange = "{0, 599}";
+		};
+	};
+	1D3623250D0F684500981E51 /* CheckboxInTTTableViewAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {439, 1235}}";
+			sepNavSelRange = "{276, 0}";
+			sepNavVisRange = "{0, 405}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* CheckboxInTTTableView */ = {
+		activeExec = 0;
+		executables = (
+			A5149ED71231F33E00657D67 /* CheckboxInTTTableView */,
+		);
+	};
+	28D7ACF70DDB3853001CB0EB /* CheckboxInTTTableViewViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {712, 845}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 289}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = A5149ED71231F33E00657D67 /* CheckboxInTTTableView */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* CheckboxInTTTableView */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* CheckboxInTTTableView */,
+		);
+		codeSenseManager = A5149EF01231F34C00657D67 /* Code sense */;
+		executables = (
+			A5149ED71231F33E00657D67 /* CheckboxInTTTableView */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					665,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					625,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 305265356;
+			PBXWorkspaceStateSaveDate = 305265356;
+		};
+		perUserProjectItems = {
+			A514A0241231F92E00657D67 = A514A0241231F92E00657D67 /* PBXTextBookmark */;
+			A514A0251231F92E00657D67 = A514A0251231F92E00657D67 /* PBXTextBookmark */;
+			A514A0301231F98E00657D67 = A514A0301231F98E00657D67 /* PBXTextBookmark */;
+			A521A99E1231FAB1009CAAA5 = A521A99E1231FAB1009CAAA5 /* PBXTextBookmark */;
+			A57CCBF81231FB6F007D201A /* PBXTextBookmark */ = A57CCBF81231FB6F007D201A /* PBXTextBookmark */;
+			A57CCC551231FC2A007D201A /* PBXTextBookmark */ = A57CCC551231FC2A007D201A /* PBXTextBookmark */;
+			A57CCC581231FC5C007D201A /* PBXTextBookmark */ = A57CCC581231FC5C007D201A /* PBXTextBookmark */;
+		};
+		sourceControlManager = A5149EEF1231F34C00657D67 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	A5149ED71231F33E00657D67 /* CheckboxInTTTableView */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = CheckboxInTTTableView;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	A5149EEF1231F34C00657D67 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	A5149EF01231F34C00657D67 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	A514A0241231F92E00657D67 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* CheckboxInTTTableViewViewController.m */;
+		name = "CheckboxInTTTableViewViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 733;
+		vrLoc = 0;
+	};
+	A514A0251231F92E00657D67 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* CheckboxInTTTableViewAppDelegate.m */;
+		name = "CheckboxInTTTableViewAppDelegate.m: 11";
+		rLen = 0;
+		rLoc = 276;
+		rType = 0;
+		vrLen = 807;
+		vrLoc = 0;
+	};
+	A514A0301231F98E00657D67 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* CheckboxInTTTableViewAppDelegate.h */;
+		name = "CheckboxInTTTableViewAppDelegate.h: 10";
+		rLen = 0;
+		rLoc = 234;
+		rType = 0;
+		vrLen = 599;
+		vrLoc = 0;
+	};
+	A521A99E1231FAB1009CAAA5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* CheckboxInTTTableViewAppDelegate.h */;
+		name = "CheckboxInTTTableViewAppDelegate.h: 10";
+		rLen = 0;
+		rLoc = 224;
+		rType = 0;
+		vrLen = 599;
+		vrLoc = 0;
+	};
+	A57CCBF81231FB6F007D201A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* CheckboxInTTTableViewAppDelegate.h */;
+		name = "CheckboxInTTTableViewAppDelegate.h: 10";
+		rLen = 0;
+		rLoc = 234;
+		rType = 0;
+		vrLen = 599;
+		vrLoc = 0;
+	};
+	A57CCC551231FC2A007D201A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* CheckboxInTTTableViewAppDelegate.h */;
+		name = "CheckboxInTTTableViewAppDelegate.h: 10";
+		rLen = 0;
+		rLoc = 207;
+		rType = 0;
+		vrLen = 601;
+		vrLoc = 0;
+	};
+	A57CCC581231FC5C007D201A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* CheckboxInTTTableViewAppDelegate.h */;
+		name = "CheckboxInTTTableViewAppDelegate.h: 10";
+		rLen = 0;
+		rLoc = 207;
+		rType = 0;
+		vrLen = 599;
+		vrLoc = 0;
+	};
+}
